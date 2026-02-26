@@ -1,5 +1,14 @@
-title: example
-email: example
-description: >-
-  hello world :)
+title: SlavaBuchnev
 theme: minima
+
+# Дополнительные поля
+author:  Buchnev Vyacheslav
+
+# Социальные сети
+github_username:  SlavaBuchnev
+
+# порядок страниц
+header_pages:
+  - about.md
+  - projects.md
+  - posts.md
