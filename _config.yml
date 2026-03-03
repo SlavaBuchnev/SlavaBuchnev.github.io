@@ -12,3 +12,8 @@ header_pages:
   - about.md
   - projects.md
   - posts.md
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
